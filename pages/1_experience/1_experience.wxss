@@ -1,0 +1,7 @@
+/* pages/1_experience/1_experience.wxss */
+
+.blank-line {
+  margin: 30rpx 0;
+  height: 1rpx;
+  border: 1rpx solid red;
+}

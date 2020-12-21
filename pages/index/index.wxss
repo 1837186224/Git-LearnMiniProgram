@@ -1,0 +1,11 @@
+.title {
+  font-size: 40rpx;
+  font-weight: 700;
+  text-align: center;
+  /* background-color: pink; */
+  padding-bottom: 40rpx;
+} 
+
+.main {
+  padding: 30rpx;
+}

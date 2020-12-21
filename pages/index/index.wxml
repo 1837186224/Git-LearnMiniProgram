@@ -1,3 +1,18 @@
 <!--index.wxml-->
-<view>index</view>
+<view class="title">首页</view>
+
+<view class="main">
+
+
+  <!-- 
+1.小程序初体验
+  1.数据绑定
+  2.列表渲染
+  3.事件监听 
+-->
+<view class="experience">
+  <!-- <view>1.小程序初体验</view> -->
+  <navigator url="../1_experience/1_experience">1.小程序初体验</navigator>
+</view>
+</view>
 
