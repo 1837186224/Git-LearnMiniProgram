@@ -4,13 +4,13 @@
     "ignore": []
   },
   "setting": {
-    "urlCheck": false,
+    "urlCheck": true,
     "es6": true,
     "enhance": false,
     "postcss": true,
     "preloadBackgroundData": false,
     "minified": true,
-    "newFeature": false,
+    "newFeature": true,
     "coverView": true,
     "nodeModules": false,
     "autoAudits": false,
@@ -37,13 +37,12 @@
     "minifyWXSS": true
   },
   "compileType": "miniprogram",
-  "libVersion": "2.14.1",
+  "libVersion": "2.7.1",
   "appid": "wx09336ba256c961b2",
-  "projectname": "Git-LearnMiniProgram",
+  "projectname": "MiniProgram",
   "debugOptions": {
     "hidedInDevtools": []
   },
-  "scripts": {},
   "isGameTourist": false,
   "simulatorType": "wechat",
   "simulatorPluginLibVersion": {},
@@ -55,12 +54,7 @@
       "list": []
     },
     "game": {
-      "list": []
-    },
-    "plugin": {
-      "list": []
-    },
-    "gamePlugin": {
+      "currentL": -1,
       "list": []
     },
     "miniprogram": {
